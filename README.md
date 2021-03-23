@@ -1,2 +1,2 @@
-# Virtual-Pet-3
-c36 project
+# Virtual Pet 3
+C36 project
